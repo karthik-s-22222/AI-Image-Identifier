@@ -21,7 +21,6 @@
 - | Best Use Case	         |  Fast, local object naming      |	  Detailed reasoning & celebrity ID | 
 - | Internet Required      |	  No	                         |            Yes                       |
 - | Reasoning Ability	     |   None (Math only)              |	       High (Human-like)            |
- --------------------------------------------------------------------------------------------------
 
 
 Code Explanation
