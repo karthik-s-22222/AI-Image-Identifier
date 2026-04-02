@@ -11,14 +11,14 @@
 - Fine-tune MobileNetV2: Transfer Learning can be performed by training the model on a smaller, high-quality dataset. For a specific task, this     can lead to 92% to 98% accuracy.
 - Improve Image Quality: AI accuracy can be affected by poor image quality. Clear, centered images can improve performance. 
 
-Comparison
+- Comparison
 ---------------------------------------------------------------------------------------------
-| Feature  	         |  MobileNetV2 (Default)          |	     Gemini 1.5 Flash              |
-| Top-1              |   Accuracy	~71%	                |   >90% (Context dependent)         |
-| Best Use Case	   |  Fast, local object naming      |	 Detailed reasoning & celebrity ID | 
-| Internet Required  |	  No	                         |         Yes                        |
-| Reasoning Ability	|  None (Math only)               |	      High (Human-like)            |
----------------------------------------------------------------------------------------------
+- | Feature  	         |  MobileNetV2 (Default)          |	     Gemini 1.5 Flash              |
+- | Top-1              |   Accuracy	~71%	                |   >90% (Context dependent)         |
+- | Best Use Case	   |  Fast, local object naming      |	 Detailed reasoning & celebrity ID | 
+- | Internet Required  |	  No	                         |         Yes                        |
+- | Reasoning Ability	|  None (Math only)               |	      High (Human-like)            |
+ ---------------------------------------------------------------------------------------------
 
 
 Code Explanation
