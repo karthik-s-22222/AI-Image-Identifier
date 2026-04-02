@@ -6,8 +6,8 @@
 
 
 Code Explanation
-> google.generativeai:(this require an api key to use this model) This is to prepare the app for future Gemini integration.
-> numpy: This is the python library that handles image data as a numerical array.
+- google.generativeai:(this require an api key to use this model) This is to prepare the app for future Gemini integration.
+- numpy: This is the python library that handles image data as a numerical array.
 > streamlit: The framework builds the web interface to run project in default host webpage.
 > MobileNetV2: This is a pre-trained deep learning model from TensorFlow.
 > PIL (Image): It opens and changes uploaded image files.
