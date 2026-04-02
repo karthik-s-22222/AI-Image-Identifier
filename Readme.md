@@ -3,7 +3,7 @@
 
 - By default, the model can identify 1,000 distinct object categories. These include a broad variety of "everyday" web images rather than           specific people or niche professional data.
 
-  link show all the 1000 object categories of my project - https://www.kaggle.com/datasets/skyap79/imagenet-classes
+  - Link show all the 1000 object categories of my project - https://www.kaggle.com/datasets/skyap79/imagenet-classes
 
 
 - Accuracy Details of this project 
