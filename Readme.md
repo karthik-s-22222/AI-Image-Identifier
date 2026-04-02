@@ -12,13 +12,13 @@
 - Improve Image Quality: AI accuracy can be affected by poor image quality. Clear, centered images can improve performance. 
 
 - Comparison
----------------------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------
 - | Feature  	         |  MobileNetV2 (Default)          |	     Gemini 1.5 Flash              |
 - | Top-1              |   Accuracy	~71%	                |   >90% (Context dependent)         |
-- | Best Use Case	   |  Fast, local object naming      |	 Detailed reasoning & celebrity ID | 
-- | Internet Required  |	  No	                         |         Yes                        |
-- | Reasoning Ability	|  None (Math only)               |	      High (Human-like)            |
- ---------------------------------------------------------------------------------------------
+- | Best Use Case	     |  Fast, local object naming      |	 Detailed reasoning & celebrity ID | 
+- | Internet Required  |	  No	                           |         Yes                        |
+- | Reasoning Ability	 |   None (Math only)              |	      High (Human-like)            |
+ ----------------------------------------------------------------------------------------------
 
 
 Code Explanation
