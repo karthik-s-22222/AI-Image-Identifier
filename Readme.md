@@ -17,11 +17,11 @@
 
 - Comparison
  --------------------------------------------------------------------------------------------------
-- | Feature  	           |  MobileNetV2 (Default)          |	      Gemini 1.5 Flash              |
-- | Top-1                |   Accuracy	~71%	               |     >90% (Context dependent)         |
-- | Best Use Case	       |  Fast, local object naming      |	  Detailed reasoning & celebrity ID | 
-- | Internet Required    |	  No	                         |            Yes                       |
-- | Reasoning Ability	   |   None (Math only)              |	       High (Human-like)            |
+- | Features  	           |  MobileNetV2 (Default)          |	      Gemini 1.5 Flash              |
+- | Top-1                  |   Accuracy	~71%	               |     >90% (Context dependent)         |
+- | Best Use Case	         |  Fast, local object naming      |	  Detailed reasoning & celebrity ID | 
+- | Internet Required      |	  No	                         |            Yes                       |
+- | Reasoning Ability	     |   None (Math only)              |	       High (Human-like)            |
  --------------------------------------------------------------------------------------------------
 
 
