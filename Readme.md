@@ -2,24 +2,19 @@
 - This is the project which identifies and then predicts of the uploaded image and this uses the pretrained ML Model data from mobilenetv2 which is the tensorflow library and if you have genai api key code you can get the accurate prediction of that image for identifying the data. 
 
 
-Accuracy Details
-MobileNetV2 (Standard): This model, pre-trained on ImageNet, typically has around 71.3% top-1 accuracy. This means it correctly identifies the primary object about 71% of the time. Its top-5 accuracy is around 90.1%.
-Gemini 1.5 Flash: As a large multimodal model, Gemini can achieve above 90% accuracy in many situations because it understands context and details that smaller models may miss. 
-Wolfram Resource System
-Wolfram Resource System
- +4
-Methods to Increase Accuracy
-To reach 90% accuracy, consider these options:
-Use Gemini: The Gemini API can be used as the primary identification source. It is more accurate for complex images.
-Fine-tune MobileNetV2: Transfer Learning can be performed by training the model on a smaller, high-quality dataset. For a specific task, this can lead to 92% to 98% accuracy.
-Improve Image Quality: AI accuracy can be affected by poor image quality. Clear, centered images can improve performance. 
-N-iX
-N-iX
- +4
+- Accuracy Details of this project 
+- MobileNetV2 (Standard): This model, pre-trained on ImageNet, typically has around 71.3% top-1 accuracy. This means it correctly identifies the    primary object about 71% of the time. Its top-5 accuracy is around 90.1%.
+- Gemini 1.5 Flash: As a large multimodal model, Gemini can achieve above 90% accuracy in many situations because it understands context and        details that smaller models may miss. 
+- Methods to Increase Accuracy
+- To reach 90% accuracy,consider these options:
+- Use Gemini: The Gemini API can be used as the primary identification source. It is more accurate for complex images.
+- Fine-tune MobileNetV2: Transfer Learning can be performed by training the model on a smaller, high-quality dataset. For a specific task, this     can lead to 92% to 98% accuracy.
+- Improve Image Quality: AI accuracy can be affected by poor image quality. Clear, centered images can improve performance. 
+
 Comparison
 ---------------------------------------------------------------------------------------------
 | Feature  	         |  MobileNetV2 (Default)          |	     Gemini 1.5 Flash              |
-| Top-1              |   Accuracy	~71%	             |   >90% (Context dependent)         |
+| Top-1              |   Accuracy	~71%	                |   >90% (Context dependent)         |
 | Best Use Case	   |  Fast, local object naming      |	 Detailed reasoning & celebrity ID | 
 | Internet Required  |	  No	                         |         Yes                        |
 | Reasoning Ability	|  None (Math only)               |	      High (Human-like)            |
