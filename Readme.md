@@ -38,6 +38,11 @@ Code Explanation
 - st.progress: This turns the decimal score into a visual blue bar.
 - {score:.2%}: This formats the number as a percentage with two decimal places. for example ( 0.25)
 
+- Output Of This Project
+- image!()
+- image!()
+- image!()
+
 
 
 
