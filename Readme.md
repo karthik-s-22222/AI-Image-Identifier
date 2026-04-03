@@ -39,7 +39,7 @@ Code Explanation
 - {score:.2%}: This formats the number as a percentage with two decimal places. for example ( 0.25)
 
 - Output Of This Project
-![image alt](https://github.com/karthik-s-22222/AI-Image Identifier/blob/2bc130ca18167c3739b82e6a0cfcce8302a8d1a5/000000001%20%20%20%20%20%20%20%20%20%20%20-04-03%20051933.png)
+![image alt](https://github.com/karthik-s-22222/AI-Image-Identifier/blob/425d4b5fbda27921868a2e70191ff59ec636b728/000000001%20%20%20%20%20%20%20%20%20%20%20-04-03%20051933.png))
 - image!()
 - image!()
 
