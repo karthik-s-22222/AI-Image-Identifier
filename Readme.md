@@ -1,5 +1,5 @@
 # 🔍 AI Image Identifier
-- This is the project which identifies and then predicts of the uploaded image and this uses the pretrained ML Model data from mobilenetv2 which is the tensorflow library and if you have genai api key code you can get the accurate prediction of that image for identifying the data.
+- This Ai Image Identifier identifies the uploaded image and then predicts that uploaded image. and this uses the pretrained ML Model data from mobilenetv2 which is the tensorflow library and if you have genai api key code you can get the accurate prediction of that image for identifying the data.
 
 - By default, the model can identify 1,000 distinct object categories. These include a broad variety of "everyday" web images rather than           specific people or niche professional data.
 
