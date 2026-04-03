@@ -1,4 +1,4 @@
-import google.generativeai as genai
+import google.generativeai as genai    #if you have the API key, you can use this to get the AI reasoning for the image classification results
 import numpy as np
 import streamlit as st 
 from tensorflow.keras.applications.mobilenet_v2 import ( MobileNetV2,preprocess_input,decode_predictions)
