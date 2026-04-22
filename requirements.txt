@@ -1,5 +1,5 @@
 env
 numpy
 streamlit
-tensorflow
+tensorflow-cpu
 google-generativeai
