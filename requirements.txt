@@ -1,5 +1,6 @@
 env
-numpy
+numpy<2.0.0
 streamlit
 tensorflow-cpu
+pillow
 google-generativeai
