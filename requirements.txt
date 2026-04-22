@@ -2,4 +2,3 @@ numpy<2.0.0
 streamlit
 tensorflow-cpu==2.15.0
 pillow
-google-generativeai
